@@ -1,10 +1,7 @@
--- Cria um novo banco de dados chamado 'supermercado'
 CREATE DATABASE supermercado;
 
--- Seleciona 'supermercado' como o banco de dados a ser usado
 USE supermercado;
 
--- Criação das tabelas
 CREATE TABLE Produto (
     ID INT PRIMARY KEY,
     Nome VARCHAR(100),
