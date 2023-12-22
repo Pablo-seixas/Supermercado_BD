@@ -7,9 +7,6 @@ Bem-vindo ao sistema de gestão empresarial do Supermercado! Este projeto foi de
 ![Diagrama do Supermercado](https://github.com/Pablo-seixas/Supermercado_BD/raw/main/grafico%20supermercado.mwb.png)
 
 
-# Supermercado - Sistema de Gestão Empresarial
-
-Bem-vindo ao sistema de gestão empresarial do Supermercado! Este projeto foi desenvolvido para estruturar as operações da empresa, proporcionando uma gestão eficiente de clientes, funcionários, produtos e benefícios.
 
 ## Importância do Projeto
 
