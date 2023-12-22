@@ -1,4 +1,16 @@
-# Supermercado_BD
+
+# Supermercado - Sistema de Gestão Empresarial
+
+Bem-vindo ao sistema de gestão empresarial do Supermercado! Este projeto foi desenvolvido para estruturar as operações da empresa, proporcionando uma gestão eficiente de clientes, funcionários, produtos e benefícios.
+
+## Importância do Projeto
+
+O Supermercado é uma solução completa que visa otimizar o funcionamento da empresa em várias áreas-chave, promovendo uma experiência aprimorada para clientes e funcionários.
+
+## Imagem Ilustrativa
+
+![Diagrama do Supermercado](https://github.com/Pablo-seixas/Supermercado_BD/raw/main/grafico%20supermercado.mwb.png)
+
 
 # Supermercado - Sistema de Gestão Empresarial
 
