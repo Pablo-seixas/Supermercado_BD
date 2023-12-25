@@ -1,6 +1,5 @@
 USE supermercado;
 
--- Adiciona uma coluna 'Idade' na tabela Cliente
 ALTER TABLE Cliente ADD Idade INT;
 
 -- Adiciona uma coluna 'Restrito' na tabela Produto para indicar se o produto é restrito para menores de 18 anos
