@@ -1,6 +1,5 @@
 USE supermercado;
 
--- Criação da tabela Beneficios
 CREATE TABLE Beneficios (
     ID INT PRIMARY KEY,
     Nome VARCHAR(100),
@@ -50,7 +49,6 @@ DELIMITER //
 DROP PROCEDURE IF EXISTS CalcularSalario;
 CREATE PROCEDURE CalcularSalario(IN funcionario_id INT)
 BEGIN
-    -- Seu código aqui
 END //
 DELIMITER ;
 
@@ -59,7 +57,6 @@ VALUES (1, 'Beneficio 1', 100.00, 1);
 
 DROP TABLE IF EXISTS Beneficios;
 
--- Agora você pode recriar a tabela
 CREATE TABLE Beneficios (
     ID INT PRIMARY KEY,
     Nome VARCHAR(100),
