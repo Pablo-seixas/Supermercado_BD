@@ -65,7 +65,6 @@ item_pedido = Table('ItemPedido', metadata,
 # Criação de todas as tabelas
 metadata.create_all(engine)
 
-# Exemplo de como acessar dados na tabela Cliente
 with engine.connect() as connection:
     result = connection.execute(select(cliente))
     for row in result:
