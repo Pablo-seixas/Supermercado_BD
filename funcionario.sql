@@ -1,12 +1,10 @@
 USE supermercado;
 
--- Tabela Funcao
 CREATE TABLE Funcao (
     ID INT PRIMARY KEY,
     Nome VARCHAR(100)
 );
 
--- Inserção funções tabela Funcao
 INSERT INTO Funcao (ID, Nome) VALUES
 (1, 'Diretoria'),
 (2, 'Almoxerifado'),
@@ -17,7 +15,6 @@ INSERT INTO Funcao (ID, Nome) VALUES
 (7, 'Açougueiro'),
 (8, 'Porteiro');
 
--- Tabela Funcionario
 CREATE TABLE Funcionario (
     ID INT PRIMARY KEY,
     Nome VARCHAR(100),
